@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.next-pages/
+out/
+work/
+.env*
+!.env.example
+
